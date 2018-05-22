@@ -1,3 +1,3 @@
-flows
+flows:
   default: 
     - echo "hello world from looper"
